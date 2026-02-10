@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @AhmedTero
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AhmedTero/AhmedTero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m AhmedTero
+- 👀 I’m interested in backend & web development.
+- 🌱 I’m currently learning laravel, livewire, filament, JavaScript.
+- 💞️ I’m looking to collaborate on projects & coding.
+- 📫 How to reach me 
+✉️ ahmedtero55@gmail.com
+📲 01033878789
